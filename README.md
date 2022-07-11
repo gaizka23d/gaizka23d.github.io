@@ -22,12 +22,3 @@
 ## Autores
 
 - [@gaizka23d](https://github.com/gaizka23d)
-
-## Referencia de Colores
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Nav & H1 | ![#292a2e](https://via.placeholder.com/10/292a2e?text=+) #292a2e |
-| H2 | ![#3d4f5f](https://via.placeholder.com/10/3d4f5f?text=+) #3d4f5f |
-| Sections Odd | ![#f3f4f6](https://via.placeholder.com/10/f3f4f6?text=+) #f3f4f6 |
-
