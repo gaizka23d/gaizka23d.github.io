@@ -19,6 +19,8 @@
  - [Formulario](https://codepen.io/ssbalakumar/pen/bGwwaG)
  - [Aakash Sharma - Inpiración](https://github.com/aakashsh1999)
  - [Favicon](https://formito.com/tools/favicon)
+ - [wow.js](https://wowjs.uk/docs.html)
+ - [animate.css](https://animate.style/)
 ## Autores
 
 - [@gaizka23d](https://github.com/gaizka23d)
