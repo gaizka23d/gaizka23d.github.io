@@ -6,6 +6,7 @@
 body {
   font-family: "Inter", sans-serif;
   width: 100%;
+  scrollbar-color: #4285F4 white;
 }
 html {
   scroll-behavior: smooth;
